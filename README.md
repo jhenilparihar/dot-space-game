@@ -8,4 +8,4 @@
  4. Score EXTRA points by moving around a lot.
  5. STAY ALIVE !
 
-#### Do Star, Fork and Share this Repository 
+#### Please Star, Fork and Share this Repository 
