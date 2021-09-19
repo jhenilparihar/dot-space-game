@@ -1,2 +1,2 @@
-# dot-space--game
+# Dot Space Game
 Dot Space game in javascript.
